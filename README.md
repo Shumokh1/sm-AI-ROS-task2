@@ -26,8 +26,9 @@ Task2: Use ROS Development Studio to set up a simulation environment.
 
 6. **Execute Commands**
 
-   Type the following commands to launch the simulation and run your Python code:
+   Type the following commands to launch the simulation:
 
    ```bash
    roslaunch realrobotlab main.launch
-   roslaunch lidardata lidardata.launch
+  ```
+  
