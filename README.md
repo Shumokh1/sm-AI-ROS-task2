@@ -16,7 +16,7 @@ Task2: Use ROS Development Studio to set up a simulation environment.
 4. **Run the ROSject**
    - Go to **My ROSjects**.
    - Open and run the forked ROSject.
-   - 
+     
 <img width="300" alt="Screen Shot 1446-01-18 at 9 20 56 PM" src="https://github.com/user-attachments/assets/73cef43d-4c77-4bd2-ae5c-7e10e7b3a50f">
 
 5. **Open Gazebo and Shell**
@@ -31,4 +31,5 @@ Task2: Use ROS Development Studio to set up a simulation environment.
    ```bash
    roslaunch realrobotlab main.launch
   ```
-  <img width="300" alt="Screen Shot 1446-01-14 at 11 14 26 AM" src="https://github.com/user-attachments/assets/c2528149-4105-45bd-a680-22eab587eb40">
+
+<img width="300" alt="Screen Shot 1446-01-14 at 11 14 26 AM" src="https://github.com/user-attachments/assets/c2528149-4105-45bd-a680-22eab587eb40">
