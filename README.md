@@ -16,7 +16,9 @@ Task2: Use ROS Development Studio to set up a simulation environment.
 4. **Run the ROSject**
    - Go to **My ROSjects**.
    - Open and run the forked ROSject.
-
+<img width="1200" alt="Screen Shot 1446-01-14 at 11 14 26 
+<img width="972" alt="Screen Shot 1446-01-18 at 9 20 56 PM" src="https://github.com/user-attachments/assets/dad6e2ae-3b49-4515-93f6-fa84446da869">
+AM" src="https://github.com/user-attachments/assets/55b97c77-f353-4f85-beeb-1850703b6a10">
 5. **Open Gazebo and Shell**
 
    - Open Gazebo for simulation.
